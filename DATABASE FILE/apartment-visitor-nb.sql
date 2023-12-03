@@ -62,7 +62,7 @@ CREATE TABLE `tblvisitor` (
 
 
 INSERT INTO `tblvisitor` (`ID`, `VisitorName`, `MobileNumber`, `Address`, `Gender`, `Apartment`, `BuildingNo`, `EnterDate`, `outtime`) VALUES
-(1, 'Parth Muchal', 8878520000, '29 Brook Town Street', 'Male', '201', 'C','2022-01-13 06:11:53', '2032-01-12 05:14:20'),
+(1, 'Emeka John', 8878520000, '29 Brook Town Street', 'Male', '201', 'C','2023-02-14 07:11:53', '2027-03-12 05:14:20'),
 (2, 'Satyam Anand', 8218963214, '17 Ring Road', 'Male', '333', 'D','2022-01-13 06:41:05', '2032-09-12 05:15:54'),
 (3, 'Aanvi Gupta', 7850000010, 'Sadar Bazar', 'Female', '203', 'B', '2022-01-13 06:42:40',  '2029-09-12 05:13:21'),
 (4, 'Jennifer Merchant', 9234567890, '2301 Besides Aura Club', 'Others', '321', 'D','2022-01-13 15:52:09', '2032-09-12 05:12:54'),
